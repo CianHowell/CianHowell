@@ -34,4 +34,4 @@ jobs:
           plugin_languages_skipped: ${{ secrets.PL_REPO_SKIP }}
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot, jupyter notebook
+            gnuplot, jupyter notebook, hack, assembly
